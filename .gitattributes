@@ -1,0 +1,2 @@
+model/best_resnet_face_embedding_imagenet_arcface_final_3.pth filter=lfs diff=lfs merge=lfs -text
+model/haarcascade_frontalface_alt.xml filter=lfs diff=lfs merge=lfs -text
