@@ -2,3 +2,6 @@ model/best_resnet_face_embedding_imagenet_arcface_final_3.pth filter=lfs diff=lf
 model/haarcascade_frontalface_alt.xml filter=lfs diff=lfs merge=lfs -text
 model/best_resnet_face_classifier_single_run_1.pth filter=lfs diff=lfs merge=lfs -text
 model/best_resnet_face_classifier_single_run_2.pth filter=lfs diff=lfs merge=lfs -text
+model/best_resnet_face_classifier_single_run_2.pth filter=lfs diff=lfs merge=lfs -text
+model/best_resnet_face_classifier_single_run_1.pth filter=lfs diff=lfs merge=lfs -text
+model/best_resnet_face_classifier_single_run_1.pth filter=lfs diff=lfs merge=lfs -text
